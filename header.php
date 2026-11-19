@@ -18,7 +18,7 @@
                 aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            
+
         </div>
     </nav>
     <main class="container">
